@@ -50,7 +50,7 @@ Amongst many other information you'll be able to plot country maps:
 Use Composer to install it:
 
 ```
-composer require pragmarx/countries
+composer require agusrisan/countries
 ```
 
 ## Instantiating
